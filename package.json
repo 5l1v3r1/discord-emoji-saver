@@ -1,0 +1,14 @@
+{
+  "name": "discord-emoji-saver",
+  "version": "1.0.0",
+  "description": "Makes your life easier by saving discord emoji links for you.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ngn",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^20.0.1"
+  }
+}
